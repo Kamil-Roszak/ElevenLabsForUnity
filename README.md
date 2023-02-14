@@ -1,3 +1,4 @@
+![Banner](https://github.com/Kamil-Roszak/ElevenLabsForUnity/blob/main/TTS2UnityBanner.png)
 # ElevenLabs TTS in your Apps and Games 🎙️
 Hello! :)
 I wanted to use the TTS from Eleven for a couple of my own projects in the Unity engine.
